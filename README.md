@@ -2,6 +2,7 @@
 
 # Contributors
 ## Hugo
+### JS
 ## Nikita
 ### CSS
 ## Niek
