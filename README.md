@@ -1,6 +1,9 @@
 # Co-creatingikbendemaster
 
 # Contributors
-## Hugo (ja dit ben ik)
+## Hugo
+### JS
 ## Nikita
+### CSS
 ## Niek
+### HTML
