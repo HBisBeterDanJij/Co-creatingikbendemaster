@@ -1,6 +1,6 @@
 # Co-creatingikbendemaster
 
 # Contributors
-## Hugo
+## Hugo (ja dit ben ik)
 ## Nikita
 ## Niek
