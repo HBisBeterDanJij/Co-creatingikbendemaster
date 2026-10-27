@@ -4,10 +4,10 @@ body {
     padding: 0px;
 }
 header{
-    background-color: #333;
-    color: white;
+    background-color: rgb(73, 73, 148);
     padding: 10px;
     text-align: center;
+    font-size: x-large;
 }
 .container {
     display: flex;
@@ -16,6 +16,7 @@ header{
     padding: 20px;
     text-align: center;
     font-size: x-large;
+    background-color: rgb(73, 73, 148);
 }
 .contributors{
     flex: 1;
@@ -31,4 +32,9 @@ header{
 }
 h3{
     font-size: x-large;
+}
+.Items{
+    background-color: azure;
+    text-align: center;
+    font-size: large;
 }
